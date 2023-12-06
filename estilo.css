@@ -1,0 +1,43 @@
+body{
+    width: auto;
+    height: auto;
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+h2 {
+    text-align: center;
+    font-size: 1rem;
+    padding: 10px;
+}
+p {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+#categoríasimg {
+    width: auto;
+}
+ul {
+    display: inline;
+}
+li {
+    display: inline;
+}
+#itemes{
+    background-color: red;
+    text-align: center;
+
+}
+.items {
+    height: 100%;    
+}
+.items a{
+    position: absolute;
+}
+.container {
+    margin-top: 20px;
+}
